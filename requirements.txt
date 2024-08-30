@@ -1,0 +1,15 @@
+# Python dependencies
+
+pyqt6
+mysql-connector-python
+pandas
+APScheduler
+django
+cryptography
+pyjwt
+stripe
+secure-smtplib
+Kivy
+#RPi.GPIO
+#spidev
+#pi-rc522
